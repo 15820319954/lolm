@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数据测试页面</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 5px;
+        }
+        .hero-item {
+            display: inline-block;
+            margin: 10px;
+            text-align: center;
+            width: 120px;
+        }
+        .hero-avatar {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            margin: 0 auto 5px;
+        }
+        .hero-name {
+            font-size: 12px;
+            font-weight: bold;
+        }
+        .almanac-info {
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+        .error {
+            color: red;
+            background: #ffe6e6;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .success {
+            color: green;
+            background: #e6ffe6;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>数据加载测试</h1>
+        
+        <div class="section">
+            <h2>英雄数据测试</h2>
+            <div id="heroTest">
+                <p>正在加载英雄数据...</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>黄历数据测试</h2>
+            <div id="almanacTest">
+                <p>正在加载黄历数据...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function testData() {
+            const heroTest = document.getElementById('heroTest');
+            const almanacTest = document.getElementById('almanacTest');
+            
+            try {
+                // 测试英雄数据
+                const heroResponse = await fetch('hero.json');
+                const heroes = await heroResponse.json();
+                
+                heroTest.innerHTML = `
+                    <div class="success">✅ 英雄数据加载成功！共 ${heroes.length} 个英雄</div>
+                    <div style="margin-top: 10px;">
+                        ${heroes.slice(0, 8).map(hero => `
+                            <div class="hero-item">
+                                <img class="hero-avatar" src="${hero.avatar}" alt="${hero.name}" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjYwIiByeD0iMzAiIGZpbGw9IiNkZGQiLz4KPHRleHQgeD0iMzAiIHk9IjMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZmlsbD0iIzk5OSIgc3R5bGU9ImZvbnQtc2l6ZTogMjBweDsiPj88L3RleHQ+Cjwvc3ZnPg=='">
+                                <div class="hero-name">${hero.name}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                    <p style="margin-top: 10px; font-size: 12px; color: #666;">显示前8个英雄，共${heroes.length}个</p>
+                `;
+            } catch (error) {
+                heroTest.innerHTML = `<div class="error">❌ 英雄数据加载失败: ${error.message}</div>`;
+            }
+            
+            try {
+                // 测试黄历数据
+                const almanacResponse = await fetch('almanac.json');
+                const almanac = await almanacResponse.json();
+                
+                const today = new Date();
+                const year = today.getFullYear();
+                const month = today.getMonth() + 1;
+                const day = today.getDate();
+                
+                const todayAlmanac = almanac[year]?.[month]?.[day];
+                
+                if (todayAlmanac) {
+                    almanacTest.innerHTML = `
+                        <div class="success">✅ 黄历数据加载成功！</div>
+                        <div class="almanac-info">
+                            <strong>今日黄历 (${year}年${month}月${day}日)</strong><br>
+                            农历：${todayAlmanac.lunarDate}<br>
+                            宜：${todayAlmanac.suitableActivities.join('、')}<br>
+                            忌：${todayAlmanac.unsuitableActivities.join('、')}<br>
+                            幸运数字：${todayAlmanac.luckyNumbers.join('、')}<br>
+                            幸运颜色：${todayAlmanac.luckyColors.join('、')}
+                        </div>
+                    `;
+                } else {
+                    almanacTest.innerHTML = `
+                        <div class="error">❌ 今日黄历数据不存在</div>
+                        <div class="almanac-info">
+                            <strong>可用数据：</strong><br>
+                            ${Object.keys(almanac).join(', ')}
+                        </div>
+                    `;
+                }
+            } catch (error) {
+                almanacTest.innerHTML = `<div class="error">❌ 黄历数据加载失败: ${error.message}</div>`;
+            }
+        }
+        
+        // 页面加载完成后测试
+        testData();
+    </script>
+</body>
+</html>

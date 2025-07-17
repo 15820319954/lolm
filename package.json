@@ -1,0 +1,21 @@
+{
+  "name": "lolm-daily-card",
+  "version": "1.0.0",
+  "description": "英雄联盟手游每日英雄推荐卡片 - Vue3版本",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "element-plus": "^2.4.0",
+    "html2canvas": "^1.4.1",
+    "qrcode-generator": "^1.4.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}

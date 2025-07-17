@@ -1,0 +1,2306 @@
+[
+  {
+    "alias": "gailun",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10001.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000101.png",
+    "difficultyL": 1,
+    "heroId": 10001,
+    "intro": "“德玛西亚之力”盖伦加入你的队伍\n<color=#5A5A5A>“人在塔在。”</color>",
+    "introShort": "人在塔在。",
+    "lane": "单人路",
+    "name": "盖伦",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Garen_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 3,
+    "title": "德玛西亚之力"
+  },
+  {
+    "alias": "yatuokesi",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10002.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000201.png",
+    "difficultyL": 2,
+    "heroId": 10002,
+    "intro": "“暗裔剑魔”亚托克斯加入你的队伍\n<color=#5A5A5A>“聆听，灭绝的，死寂吧！”</color>",
+    "introShort": "聆听，灭绝的，死寂吧！",
+    "lane": "单人路;打野",
+    "name": "亚托克斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Aatrox_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 3,
+    "title": "暗裔剑魔"
+  },
+  {
+    "alias": "lakesi",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10003.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000301.png",
+    "difficultyL": 1,
+    "heroId": 10003,
+    "intro": "“光辉女郎”拉克丝加入你的队伍\n<color=#5A5A5A>“都亮起来吧！”</color>",
+    "introShort": "都亮起来吧！",
+    "lane": "辅助;中路",
+    "name": "拉克丝",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lux_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "光辉女郎"
+  },
+  {
+    "alias": "emumu",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10004.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000401.png",
+    "difficultyL": 1,
+    "heroId": 10004,
+    "intro": "“殇之木乃伊”阿木木加入你的队伍\n<color=#5A5A5A>“我还以为你从来都不会选我呢……”</color>",
+    "introShort": "我还以为你从来都不会选我呢……",
+    "lane": "打野;辅助;单人路",
+    "name": "阿木木",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Amumu_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "殇之木乃伊"
+  },
+  {
+    "alias": "kaiyin",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10005.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000501.png",
+    "difficultyL": 2,
+    "heroId": 10005,
+    "intro": "“影流之镰”凯隐加入你的队伍\n<color=#5A5A5A>“你够资格吗？也许不够。”</color>",
+    "introShort": "你够资格吗？也许不够。",
+    "lane": "打野",
+    "name": "凯隐",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kayn_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 2,
+    "title": "影流之镰"
+  },
+  {
+    "alias": "leienjiaer",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10006.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000601.png",
+    "difficultyL": 2,
+    "heroId": 10006,
+    "intro": "“傲之追猎者”雷恩加尔加入你的队伍\n<color=#5A5A5A>“今晚，猎个痛快！”</color>",
+    "introShort": "今晚，猎个痛快！",
+    "lane": "打野",
+    "name": "雷恩加尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Rengar_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "傲之追猎者"
+  },
+  {
+    "alias": "kaerma",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10007.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000701.png",
+    "difficultyL": 1,
+    "heroId": 10007,
+    "intro": "“天启者”卡尔玛加入你的队伍\n<color=#5A5A5A>“要永远相信你的灵魂。”</color>",
+    "introShort": "要永远相信你的灵魂。",
+    "lane": "辅助;中路",
+    "name": "卡尔玛",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Karma_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "天启者"
+  },
+  {
+    "alias": "nunuheweilangpu",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10008.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000801.png",
+    "difficultyL": 2,
+    "heroId": 10008,
+    "intro": "“雪原双子”努努和威朗普加入你的队伍\n<color=#5A5A5A>“和好朋友一起冒险才好玩！”</color>",
+    "introShort": "和好朋友一起冒险才好玩！",
+    "lane": "打野",
+    "name": "努努和威朗普",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nunu_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "雪原双子"
+  },
+  {
+    "alias": "sunwukong",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10009.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000901.png",
+    "difficultyL": 1,
+    "heroId": 10009,
+    "intro": "“齐天大圣”孙悟空加入你的队伍\n<color=#5A5A5A>“俺老孙来也！”</color>",
+    "introShort": "俺老孙来也！",
+    "lane": "打野;单人路",
+    "name": "孙悟空",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/MonkeyKing_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "齐天大圣"
+  },
+  {
+    "alias": "weien",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10010.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001001.png",
+    "difficultyL": 2,
+    "heroId": 10010,
+    "intro": "“暗夜猎手”薇恩加入你的队伍\n<color=#5A5A5A>“让我们来猎杀那些陷入黑暗中的人吧。”</color>",
+    "introShort": "让我们来猎杀那些陷入黑暗中的人吧。",
+    "lane": "射手",
+    "name": "薇恩",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vayne_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "暗夜猎手"
+  },
+  {
+    "alias": "aike",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10011.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001101.png",
+    "difficultyL": 3,
+    "heroId": 10011,
+    "intro": "“时间刺客”艾克加入你的队伍。\n<color=#5A5A5A>“时间不在于你拥有多少，而在于你怎样使用。”</color>",
+    "introShort": "时间不在于你拥有多少，而在于你怎样使用。",
+    "lane": "中路;打野;单人路",
+    "name": "艾克",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ekko_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "时间刺客"
+  },
+  {
+    "alias": "aolianna",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10012.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001201.png",
+    "difficultyL": 2,
+    "heroId": 10012,
+    "intro": "“发条魔灵”奥莉安娜加入你的队伍\n<color=#5A5A5A>“我们会帮你杀敌，这肯定很有趣。”</color>",
+    "introShort": "我们会帮你杀敌，这肯定很有趣。",
+    "lane": "中路",
+    "name": "奥莉安娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Orianna_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "发条魔灵"
+  },
+  {
+    "alias": "daianna",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10013.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001301.png",
+    "difficultyL": 1,
+    "heroId": 10013,
+    "intro": "“皎月女神”黛安娜加入你的队伍\n<color=#5A5A5A>“一轮新月正在冉冉升起。”</color>",
+    "introShort": "一轮新月正在冉冉升起。",
+    "lane": "中路;单人路;打野",
+    "name": "黛安娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Diana_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 2,
+    "title": "皎月女神"
+  },
+  {
+    "alias": "zuoyi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10014.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001401.png",
+    "difficultyL": 3,
+    "heroId": 10014,
+    "intro": "“暮光星灵”佐伊加入你的队伍。\n<color=#5A5A5A>“好呀，这才好玩嘛，对不对？”</color>",
+    "introShort": "好呀，这才好玩嘛，对不对？",
+    "lane": "中路",
+    "name": "佐伊",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zoe_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "暮光星灵"
+  },
+  {
+    "alias": "taidamier",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10015.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001501.png",
+    "difficultyL": 1,
+    "heroId": 10015,
+    "intro": "“蛮族之王”泰达米尔加入你的队伍\n<color=#5A5A5A>“我的大刀早已饥渴难耐了。”</color>",
+    "introShort": "我的大刀早已饥渴难耐了。",
+    "lane": "打野;单人路",
+    "name": "泰达米尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Tryndamere_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "蛮族之王"
+  },
+  {
+    "alias": "zhaoxin",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10016.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001601.png",
+    "difficultyL": 1,
+    "heroId": 10016,
+    "intro": "“德邦总管”赵信加入你的队伍\n<color=#5A5A5A>“长枪依在。”</color>",
+    "introShort": "长枪依在。",
+    "lane": "打野",
+    "name": "赵信",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/XinZhao_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "德邦总管"
+  },
+  {
+    "alias": "kazike",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10017.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001701.png",
+    "difficultyL": 2,
+    "heroId": 10017,
+    "intro": "“虚空掠夺者”卡兹克加入你的队伍\n<color=#5A5A5A>“改变就是好事。”</color>",
+    "introShort": "改变就是好事。",
+    "lane": "打野",
+    "name": "卡兹克",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Khazix_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "虚空掠夺者"
+  },
+  {
+    "alias": "jinkesi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10018.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001801.png",
+    "difficultyL": 2,
+    "heroId": 10018,
+    "intro": "“暴走萝莉”金克丝加入你的队伍\n<color=#5A5A5A>“规则就是用来打破的。”</color>",
+    "introShort": "规则就是用来打破的。",
+    "lane": "射手",
+    "name": "金克丝",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jinx_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "暴走萝莉"
+  },
+  {
+    "alias": "hekalimu",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10019.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001901.png",
+    "difficultyL": 2,
+    "heroId": 10019,
+    "intro": "“战争之影”赫卡里姆加入你的队伍\n<color=#5A5A5A>“见识下暗影岛之秘吧。”</color>",
+    "introShort": "见识下暗影岛之秘吧。",
+    "lane": "打野",
+    "name": "赫卡里姆",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Hecarim_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "战争之影"
+  },
+  {
+    "alias": "youmi",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10020.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002001.png",
+    "difficultyL": 1,
+    "heroId": 10020,
+    "intro": "“魔法猫咪”悠米加入你的队伍\n<color=#5A5A5A>“我最最最最喜欢的鱼在哪儿呢？”</color>",
+    "introShort": "我最最最最喜欢的鱼在哪儿呢？",
+    "lane": "辅助",
+    "name": "悠米",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Yuumi_0.jpg",
+    "roles": [
+      "辅助"
+    ],
+    "surviveL": 1,
+    "title": "魔法猫咪"
+  },
+  {
+    "alias": "bulong",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10021.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002101.png",
+    "difficultyL": 2,
+    "heroId": 10021,
+    "intro": "“弗雷尔卓德之心”布隆加入你的队伍\n<color=#5A5A5A>“心脏，是最强壮的肌肉。”</color>",
+    "introShort": "心脏，是最强壮的肌肉。",
+    "lane": "辅助",
+    "name": "布隆",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Braum_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 2,
+    "title": "弗雷尔卓德之心"
+  },
+  {
+    "alias": "jin",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10022.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002201.png",
+    "difficultyL": 2,
+    "heroId": 10022,
+    "intro": "“戏命师”烬加入你的队伍\n<color=#5A5A5A>“我于杀戮之中绽放，亦如黎明中的花朵。”</color>",
+    "introShort": "我于杀戮之中绽放，亦如黎明中的花朵。",
+    "lane": "射手",
+    "name": "烬",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jhin_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "戏命师"
+  },
+  {
+    "alias": "aoruilian·suoer",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10023.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002301.png",
+    "difficultyL": 3,
+    "heroId": 10023,
+    "intro": "“铸星龙王”奥瑞利安·索尔加入你的队伍\n<color=#5A5A5A>“自然如此。”</color>",
+    "introShort": "自然如此。",
+    "lane": "中路",
+    "name": "奥瑞利安·索尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/AurelionSol_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "铸星龙王"
+  },
+  {
+    "alias": "xindela",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10024.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002401.png",
+    "difficultyL": 2,
+    "heroId": 10024,
+    "intro": "“暗黑元首”辛德拉加入你的队伍。\n<color=#5A5A5A>“我的能量，无穷无尽。”</color>",
+    "introShort": "我的能量，无穷无尽。",
+    "lane": "中路",
+    "name": "辛德拉",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Syndra_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "暗黑元首"
+  },
+  {
+    "alias": "cuisite",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10025.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002501.png",
+    "difficultyL": 2,
+    "heroId": 10025,
+    "intro": "“卡牌大师”崔斯特加入你的队伍\n<color=#5A5A5A>“幸运女神在微笑。”</color>",
+    "introShort": "幸运女神在微笑。",
+    "lane": "中路",
+    "name": "崔斯特",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/TwistedFate_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "卡牌大师"
+  },
+  {
+    "alias": "kasha",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10026.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002601.png",
+    "difficultyL": 2,
+    "heroId": 10026,
+    "intro": "“虚空之女”卡莎加入你的队伍\n<color=#5A5A5A>“你是猎人，还是猎物？”</color>",
+    "introShort": "你是猎人，还是猎物？",
+    "lane": "射手",
+    "name": "卡莎",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kaisa_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "虚空之女"
+  },
+  {
+    "alias": "ni菈",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10027.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002701.png",
+    "difficultyL": 3,
+    "heroId": 10027,
+    "intro": "“不羁之悦”尼菈加入你的队伍\n<color=#5A5A5A>“快乐，永不褪色。”</color>",
+    "introShort": "快乐，永不褪色。",
+    "lane": "射手",
+    "name": "尼菈",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nilah_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "不羁之悦"
+  },
+  {
+    "alias": "moganna",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10028.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002801.png",
+    "difficultyL": 1,
+    "heroId": 10028,
+    "intro": "“堕落天使”莫甘娜加入你的队伍\n<color=#5A5A5A>“无义者，烈火焚身！”</color>",
+    "introShort": "无义者，烈火焚身！",
+    "lane": "辅助;中路;打野",
+    "name": "莫甘娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Morgana_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "堕落天使"
+  },
+  {
+    "alias": "yifulin",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10029.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002901.png",
+    "difficultyL": 2,
+    "heroId": 10029,
+    "intro": "“痛苦之拥”伊芙琳加入你的队伍\n<color=#5A5A5A>“承认吧，你就是想我。”</color>",
+    "introShort": "承认吧，你就是想我。",
+    "lane": "打野",
+    "name": "伊芙琳",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 2,
+    "title": "痛苦之拥"
+  },
+  {
+    "alias": "pansen",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10030.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003001.png",
+    "difficultyL": 1,
+    "heroId": 10030,
+    "intro": "“不屈之枪”潘森加入你的队伍\n<color=#5A5A5A>“于战火中我们得以重生！”</color>",
+    "introShort": "于战火中我们得以重生！",
+    "lane": "单人路;打野;中路",
+    "name": "潘森",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Pantheon_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "不屈之枪"
+  },
+  {
+    "alias": "ekali",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10031.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003101.png",
+    "difficultyL": 3,
+    "heroId": 10031,
+    "intro": "“离群之刺”阿卡丽加入你的队伍\n<color=#5A5A5A>“给我一把好刀，再给我一个目标，就行了。”</color>",
+    "introShort": "给我一把好刀，再给我一个目标，就行了。",
+    "lane": "中路;单人路",
+    "name": "阿卡丽",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Akali_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "离群之刺"
+  },
+  {
+    "alias": "feiaona",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10032.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003201.png",
+    "difficultyL": 3,
+    "heroId": 10032,
+    "intro": "“无双剑姬”菲奥娜加入你的队伍\n<color=#5A5A5A>“我渴望有价值的对手。”</color>",
+    "introShort": "我渴望有价值的对手。",
+    "lane": "单人路",
+    "name": "菲奥娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Fiora_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "无双剑姬"
+  },
+  {
+    "alias": "bulici",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10033.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003301.png",
+    "difficultyL": 1,
+    "heroId": 10033,
+    "intro": "“蒸汽机器人”布里茨加入你的队伍\n<color=#5A5A5A>“发动机已启动，随时可以出发。”</color>",
+    "introShort": "发动机已启动，随时可以出发。",
+    "lane": "辅助",
+    "name": "布里茨",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Blitzcrank_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 2,
+    "title": "蒸汽机器人"
+  },
+  {
+    "alias": "salefenni",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10034.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003401.png",
+    "difficultyL": 1,
+    "heroId": 10034,
+    "intro": "“星籁歌姬”萨勒芬妮加入你的队伍\n<color=#5A5A5A>“你我一起，改变世界！”</color>",
+    "introShort": "你我一起，改变世界！",
+    "lane": "辅助;中路",
+    "name": "萨勒芬妮",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Seraphine_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "星籁歌姬"
+  },
+  {
+    "alias": "modekaisa",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10035.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003501.png",
+    "difficultyL": 2,
+    "heroId": 10035,
+    "intro": "“铁铠冥魂”莫德凯撒加入你的队伍\n<color=#5A5A5A>“天命，主宰，欺诈！”</color>",
+    "introShort": "天命，主宰，欺诈！",
+    "lane": "单人路;打野",
+    "name": "莫德凯撒",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Mordekaiser_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "铁铠冥魂"
+  },
+  {
+    "alias": "anni",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10036.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003601.png",
+    "difficultyL": 1,
+    "heroId": 10036,
+    "intro": "“黑暗之女”安妮加入你的队伍\n<color=#5A5A5A>“火焰是我最喜欢的玩具。”</color>",
+    "introShort": "火焰是我最喜欢的玩具。",
+    "lane": "中路",
+    "name": "安妮",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Annie_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "黑暗之女"
+  },
+  {
+    "alias": "yasuo",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10037.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003701.png",
+    "difficultyL": 3,
+    "heroId": 10037,
+    "intro": "“疾风剑豪”亚索加入你的队伍\n<color=#5A5A5A>“死亡如风，常伴吾身。”</color>",
+    "introShort": "死亡如风，常伴吾身。",
+    "lane": "中路;单人路",
+    "name": "亚索",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Yasuo_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 1,
+    "title": "疾风剑豪"
+  },
+  {
+    "alias": "eli",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10038.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003801.png",
+    "difficultyL": 2,
+    "heroId": 10038,
+    "intro": "“九尾妖狐”阿狸加入你的队伍\n<color=#5A5A5A>“我们心有灵犀，不是吗？”</color>",
+    "introShort": "我们心有灵犀，不是吗？",
+    "lane": "中路",
+    "name": "阿狸",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "九尾妖狐"
+  },
+  {
+    "alias": "jie",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10039.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003901.png",
+    "difficultyL": 3,
+    "heroId": 10039,
+    "intro": "“影流之主”劫加入你的队伍\n<color=#5A5A5A>“无形之刃，最为致命。”</color>",
+    "introShort": "无形之刃，最为致命。",
+    "lane": "中路;单人路;打野",
+    "name": "劫",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zed_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "影流之主"
+  },
+  {
+    "alias": "jiakesi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10040.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004001.png",
+    "difficultyL": 2,
+    "heroId": 10040,
+    "intro": "“武器大师”贾克斯加入你的队伍\n<color=#5A5A5A>“开打开打！”</color>",
+    "introShort": "开打开打！",
+    "lane": "打野;单人路",
+    "name": "贾克斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jax_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "武器大师"
+  },
+  {
+    "alias": "kaier",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10041.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004101.png",
+    "difficultyL": 2,
+    "heroId": 10041,
+    "intro": "“正义天使”凯尔加入你的队伍\n<color=#5A5A5A>“我的完美，必会令人战栗。”</color>",
+    "introShort": "我的完美，必会令人战栗。",
+    "lane": "单人路;中路",
+    "name": "凯尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kayle_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "正义天使"
+  },
+  {
+    "alias": "luxian",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10042.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004201.png",
+    "difficultyL": 2,
+    "heroId": 10042,
+    "intro": "“圣枪游侠”卢锡安加入你的队伍\n<color=#5A5A5A>“人终有一死，而有些人则需要一点小小的帮助。”</color>",
+    "introShort": "人终有一死，而有些人则需要一点小小的帮助。",
+    "lane": "射手;中路",
+    "name": "卢锡安",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lucian_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "圣枪游侠"
+  },
+  {
+    "alias": "leiouna",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10044.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004401.png",
+    "difficultyL": 1,
+    "heroId": 10044,
+    "intro": "“曙光女神”蕾欧娜加入你的队伍\n<color=#5A5A5A>“黎明就在眼前。”</color>",
+    "introShort": "黎明就在眼前。",
+    "lane": "辅助",
+    "name": "蕾欧娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Leona_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "曙光女神"
+  },
+  {
+    "alias": "cuisitana",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10045.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004501.png",
+    "difficultyL": 1,
+    "heroId": 10045,
+    "intro": "“麦林炮手”崔丝塔娜加入你的队伍\n<color=#5A5A5A>“一日为班德尔炮手，终生为班德尔炮手。”</color>",
+    "introShort": "一日为班德尔炮手，终生为班德尔炮手。",
+    "lane": "射手",
+    "name": "崔丝塔娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Tristana_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "麦林炮手"
+  },
+  {
+    "alias": "timo",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10046.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004601.png",
+    "difficultyL": 1,
+    "heroId": 10046,
+    "intro": "“迅捷斥候”提莫加入你的队伍\n<color=#5A5A5A>“提莫队长正在待命。”</color>",
+    "introShort": "队长正在待命。",
+    "lane": "单人路;中路",
+    "name": "提莫",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Teemo_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "迅捷斥候"
+  },
+  {
+    "alias": "suona",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10047.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004701.png",
+    "difficultyL": 1,
+    "heroId": 10047,
+    "intro": "“琴瑟仙女”娑娜加入你的队伍\n<color=#5A5A5A>“今天我们演奏哪一首曲子？”</color>",
+    "introShort": "今天我们演奏哪一首曲子？",
+    "lane": "辅助",
+    "name": "娑娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sona_0.jpg",
+    "roles": [
+      "辅助"
+    ],
+    "surviveL": 1,
+    "title": "琴瑟仙女"
+  },
+  {
+    "alias": "lulu",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10048.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004801.png",
+    "difficultyL": 2,
+    "heroId": 10048,
+    "intro": "“仙灵女巫”璐璐加入你的队伍\n<color=#5A5A5A>“见到你很高兴！”</color>",
+    "introShort": "见到你很高兴！",
+    "lane": "辅助",
+    "name": "璐璐",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lulu_0.jpg",
+    "roles": [
+      "辅助"
+    ],
+    "surviveL": 1,
+    "title": "仙灵女巫"
+  },
+  {
+    "alias": "xiwana",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10049.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004901.png",
+    "difficultyL": 1,
+    "heroId": 10049,
+    "intro": "“龙血武姬”希瓦娜加入你的队伍\n<color=#5A5A5A>“在敌人眼里，我就是恐惧。”</color>",
+    "introShort": "在敌人眼里，我就是恐惧。",
+    "lane": "打野",
+    "name": "希瓦娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Shyvana_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "龙血武姬"
+  },
+  {
+    "alias": "wei",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10050.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005001.png",
+    "difficultyL": 1,
+    "heroId": 10050,
+    "intro": "“皮城执法官”蔚加入你的队伍\n<color=#5A5A5A>“先打一拳，打的时候再把问题问遍。”</color>",
+    "introShort": "先打一拳，打的时候再把问题问遍。",
+    "lane": "打野",
+    "name": "蔚",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vi_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "皮城执法官"
+  },
+  {
+    "alias": "xia",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10051.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005101.png",
+    "difficultyL": 2,
+    "heroId": 10051,
+    "intro": "“逆羽”霞加入你的队伍\n<color=#5A5A5A>“我怎能拒绝共舞一曲的邀请呢！”</color>",
+    "introShort": "我怎能拒绝共舞一曲的邀请呢！",
+    "lane": "射手",
+    "name": "霞",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Xayah_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "逆羽"
+  },
+  {
+    "alias": "luo",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10052.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005201.png",
+    "difficultyL": 2,
+    "heroId": 10052,
+    "intro": "“幻翎”洛加入你的队伍\n<color=#5A5A5A>“来支舞吧。”</color>",
+    "introShort": "来支舞吧。",
+    "lane": "辅助",
+    "name": "洛",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Rakan_0.jpg",
+    "roles": [
+      "辅助"
+    ],
+    "surviveL": 2,
+    "title": "幻翎"
+  },
+  {
+    "alias": "tuqi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10053.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005301.png",
+    "difficultyL": 2,
+    "heroId": 10053,
+    "intro": "“瘟疫之源”图奇加入你的队伍\n<color=#5A5A5A>“哈呼，你想要什么？”</color>",
+    "introShort": "哈呼，你想要什么？",
+    "lane": "射手;打野",
+    "name": "图奇",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Twitch_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "瘟疫之源"
+  },
+  {
+    "alias": "gewen",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10054.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005401.png",
+    "difficultyL": 2,
+    "heroId": 10054,
+    "intro": "“灵罗娃娃”格温加入你的队伍。",
+    "introShort": "抬头挺胸，剪刀准备！",
+    "lane": "单人路;打野",
+    "name": "格温",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gwen_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "灵罗娃娃"
+  },
+  {
+    "alias": "kamier",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10055.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005501.png",
+    "difficultyL": 3,
+    "heroId": 10055,
+    "intro": "“青钢影”卡蜜尔加入你的队伍\n<color=#5A5A5A>“精准与否，就是屠宰与手术的区别。”</color>",
+    "introShort": "精准与否，就是屠宰与手术的区别。",
+    "lane": "单人路;打野",
+    "name": "卡蜜尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Camille_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "青钢影"
+  },
+  {
+    "alias": "jiawensishi",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10056.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005601.png",
+    "difficultyL": 1,
+    "heroId": 10056,
+    "intro": "“德玛西亚皇子”嘉文四世加入你的队伍\n<color=#5A5A5A>“犯我德邦者，虽远必诛。”</color>",
+    "introShort": "犯我德邦者，虽远必诛。",
+    "lane": "打野;单人路",
+    "name": "嘉文四世",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/JarvanIV_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "德玛西亚皇子"
+  },
+  {
+    "alias": "foyege",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10057.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005701.png",
+    "difficultyL": 3,
+    "heroId": 10057,
+    "intro": "“破败之王”佛耶戈加入你的队伍。\n<color=#5A5A5A>“永失吾爱，举目破败。”</color>",
+    "introShort": "永失吾爱，举目破败。",
+    "lane": "打野;单人路",
+    "name": "佛耶戈",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 1,
+    "title": "破败之王"
+  },
+  {
+    "alias": "wolibeier",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10058.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005801.png",
+    "difficultyL": 1,
+    "heroId": 10058,
+    "intro": "“不灭狂雷”沃利贝尔加入你的队伍。 \n<color=#5A5A5A>“感受来自蛮荒的力量吧。”</color>",
+    "introShort": " 感受来自蛮荒的力量吧。",
+    "lane": "单人路;打野",
+    "name": "沃利贝尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Volibear_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 3,
+    "title": "不灭狂雷"
+  },
+  {
+    "alias": "liqing",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10059.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005901.png",
+    "difficultyL": 3,
+    "heroId": 10059,
+    "intro": "“盲僧”李青加入你的队伍\n<color=#5A5A5A>“我用双手成就你的梦想。”</color>",
+    "introShort": "我用双手成就你的梦想。",
+    "lane": "打野",
+    "name": "李青",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/LeeSin_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "盲僧"
+  },
+  {
+    "alias": "kuqi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10060.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006001.png",
+    "difficultyL": 2,
+    "heroId": 10060,
+    "intro": "“英勇投弹手”库奇加入你的队伍\n<color=#5A5A5A>“王牌飞行员申请出战！”</color>",
+    "introShort": "王牌飞行员申请出战！",
+    "lane": "射手;中路",
+    "name": "库奇",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Corki_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "英勇投弹手"
+  },
+  {
+    "alias": "kainan",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10061.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006101.png",
+    "difficultyL": 2,
+    "heroId": 10061,
+    "intro": "“狂暴之心”凯南加入你的队伍\n<color=#5A5A5A>“均衡存乎万物之间。”</color>",
+    "introShort": "均衡存乎万物之间。",
+    "lane": "单人路;中路",
+    "name": "凯南",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kennen_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "狂暴之心"
+  },
+  {
+    "alias": "mengduoyisheng",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10062.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006201.png",
+    "difficultyL": 1,
+    "heroId": 10062,
+    "intro": "“祖安狂人”蒙多医生加入你的队伍\n<color=#5A5A5A>“蒙多！”</color>",
+    "introShort": "蒙多！",
+    "lane": "单人路;打野",
+    "name": "蒙多医生",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/DrMundo_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "祖安狂人"
+  },
+  {
+    "alias": "jiela",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10063.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006301.png",
+    "difficultyL": 2,
+    "heroId": 10063,
+    "intro": "“荆棘之兴”婕拉加入你的队伍\n<color=#5A5A5A>“感受荆棘的拥抱吧。”</color>",
+    "introShort": "感受荆棘的拥抱吧。",
+    "lane": "辅助;中路",
+    "name": "婕拉",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zyra_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "荆棘之兴"
+  },
+  {
+    "alias": "lamosi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10064.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006401.png",
+    "difficultyL": 1,
+    "heroId": 10064,
+    "intro": "“披甲龙龟”拉莫斯加入你的队伍\n<color=#5A5A5A>“一起找点乐子吧。”</color>",
+    "introShort": "一起找点乐子吧。",
+    "lane": "打野",
+    "name": "拉莫斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Rammus_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "披甲龙龟"
+  },
+  {
+    "alias": "neisesi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10065.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006501.png",
+    "difficultyL": 1,
+    "heroId": 10065,
+    "intro": "“沙漠死神”内瑟斯加入你的队伍\n<color=#5A5A5A>“生与死轮回不止，我们生，他们死。”</color>",
+    "introShort": "生与死轮回不止，我们生，他们死。",
+    "lane": "单人路",
+    "name": "内瑟斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nasus_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 3,
+    "title": "沙漠死神"
+  },
+  {
+    "alias": "eyunxiaojie",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10066.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006601.png",
+    "difficultyL": 1,
+    "heroId": 10066,
+    "intro": "“赏金猎人”厄运小姐加入你的队伍\n<color=#5A5A5A>“好运不会眷顾傻瓜。”</color>",
+    "introShort": "好运不会眷顾傻瓜。",
+    "lane": "射手",
+    "name": "厄运小姐",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/MissFortune_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "赏金猎人"
+  },
+  {
+    "alias": "zeli",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10067.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006701.png",
+    "difficultyL": 2,
+    "heroId": 10067,
+    "intro": "“祖安花火”泽丽加入你的队伍\n  <color=#5A5A5A>“我只要一点火花就行。”</color>",
+    "introShort": "  我只要一点火花就行。",
+    "lane": "射手",
+    "name": "泽丽",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zeri_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "祖安花火"
+  },
+  {
+    "alias": "seti",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10068.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006801.png",
+    "difficultyL": 2,
+    "heroId": 10068,
+    "intro": "“腕豪”瑟提已加入你的队伍",
+    "introShort": "已",
+    "lane": "单人路",
+    "name": "瑟提",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sett_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "腕豪"
+  },
+  {
+    "alias": "yongen",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10069.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006901.png",
+    "difficultyL": 2,
+    "heroId": 10069,
+    "intro": "“封魔剑魂”永恩加入你的队伍。\n<color=#5A5A5A>“一剑诛恶，一剑镇魂。”</color>",
+    "introShort": "一剑诛恶，一剑镇魂。",
+    "lane": "中路;单人路",
+    "name": "永恩",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Yone_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 1,
+    "title": "封魔剑魂"
+  },
+  {
+    "alias": "yi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10070.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007001.png",
+    "difficultyL": 1,
+    "heroId": 10070,
+    "intro": "“无极剑圣”易加入你的队伍\n<color=#5A5A5A>“我的剑就是你的剑。”</color>",
+    "introShort": "我的剑就是你的剑。",
+    "lane": "打野",
+    "name": "易",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/MasterYi_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "无极剑圣"
+  },
+  {
+    "alias": "delaiesi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10071.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007101.png",
+    "difficultyL": 2,
+    "heroId": 10071,
+    "intro": "“诺克萨斯之手”德莱厄斯加入你的队伍\n<color=#5A5A5A>“只有我才能带领我们走向胜利。”</color>",
+    "introShort": "只有我才能带领我们走向胜利。",
+    "lane": "单人路;打野",
+    "name": "德莱厄斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Darius_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "诺克萨斯之手"
+  },
+  {
+    "alias": "geleifusi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10072.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007201.png",
+    "difficultyL": 2,
+    "heroId": 10072,
+    "intro": "“枪火狂徒”格雷福斯加入你的队伍\n<color=#5A5A5A>“我与死亡同行。”</color>",
+    "introShort": "我与死亡同行。",
+    "lane": "打野;单人路",
+    "name": "格雷福斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Graves_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "枪火狂徒"
+  },
+  {
+    "alias": "qianjue",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10073.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007301.png",
+    "difficultyL": 3,
+    "heroId": 10073,
+    "intro": "“永猎双子”千珏加入你的队伍。\n<color=#5A5A5A>“执子之魂，与子共生。”</color>",
+    "introShort": "执子之魂，与子共生。",
+    "lane": "打野",
+    "name": "千珏",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kindred_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 2,
+    "title": "永猎双子"
+  },
+  {
+    "alias": "maokai",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10074.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007401.png",
+    "difficultyL": 1,
+    "heroId": 10074,
+    "intro": "“扭曲树精”茂凯加入你的队伍\n<color=#5A5A5A>“暗影岛将再次茂盛。”</color>",
+    "introShort": "暗影岛将再次茂盛。",
+    "lane": "打野;单人路;辅助",
+    "name": "茂凯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Maokai_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 2,
+    "title": "扭曲树精"
+  },
+  {
+    "alias": "jiana",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10075.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007501.png",
+    "difficultyL": 1,
+    "heroId": 10075,
+    "intro": "“风暴之怒”迦娜加入你的队伍\n<color=#5A5A5A>“风之化身听候你的差遣。”</color>",
+    "introShort": "风之化身听候你的差遣。",
+    "lane": "辅助",
+    "name": "迦娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Janna_0.jpg",
+    "roles": [
+      "辅助"
+    ],
+    "surviveL": 1,
+    "title": "风暴之怒"
+  },
+  {
+    "alias": "bobi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10076.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007601.png",
+    "difficultyL": 2,
+    "heroId": 10076,
+    "intro": "“圣锤之毅”波比加入你的队伍\n<color=#5A5A5A>“我不是英雄。只是个拿锤子的约德尔人。”</color>",
+    "introShort": "我不是英雄。只是个拿锤子的约德尔人。",
+    "lane": "单人路;打野",
+    "name": "波比",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Poppy_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "圣锤之毅"
+  },
+  {
+    "alias": "delaiwen",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10077.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007701.png",
+    "difficultyL": 3,
+    "heroId": 10077,
+    "intro": "“荣耀行刑官”德莱文加入你的队伍\n<color=#5A5A5A>“欢迎来到德莱联盟！”</color>",
+    "introShort": "欢迎来到德莱联盟！",
+    "lane": "射手",
+    "name": "德莱文",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Draven_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "荣耀行刑官"
+  },
+  {
+    "alias": "naer",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10078.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007801.png",
+    "difficultyL": 3,
+    "heroId": 10078,
+    "intro": "“迷失之牙”纳尔加入你的队伍\n<color=#5A5A5A>“Gnar gada!”</color>",
+    "introShort": "Gnar gada!",
+    "lane": "单人路",
+    "name": "纳尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gnar_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 3,
+    "title": "迷失之牙"
+  },
+  {
+    "alias": "aixi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10079.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007901.png",
+    "difficultyL": 1,
+    "heroId": 10079,
+    "intro": "“寒冰射手”艾希加入你的队伍\n<color=#5A5A5A>“世间万物皆系于一箭之上。”</color>",
+    "introShort": "世间万物皆系于一箭之上。",
+    "lane": "射手;辅助",
+    "name": "艾希",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ashe_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "寒冰射手"
+  },
+  {
+    "alias": "jilan",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10080.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008001.png",
+    "difficultyL": 2,
+    "heroId": 10080,
+    "intro": "“时光守护者”基兰加入你的队伍\n<color=#5A5A5A>“时间正在流逝。”</color>",
+    "introShort": "时间正在流逝。",
+    "lane": "辅助",
+    "name": "基兰",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zilean_0.jpg",
+    "roles": [
+      "辅助"
+    ],
+    "surviveL": 1,
+    "title": "时光守护者"
+  },
+  {
+    "alias": "elisita",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10081.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008101.png",
+    "difficultyL": 1,
+    "heroId": 10081,
+    "intro": "“牛头酋长”阿利斯塔加入你的队伍\n<color=#5A5A5A>“没有什么可以把俺击退。”</color>",
+    "introShort": "没有什么可以把俺击退。",
+    "lane": "辅助",
+    "name": "阿利斯塔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Alistar_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "牛头酋长"
+  },
+  {
+    "alias": "anbeisa",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10082.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008201.png",
+    "difficultyL": 3,
+    "heroId": 10082,
+    "intro": "“铁血狼母”安蓓萨加入你的队伍\n<color=#5A5A5A>“恶狼不讲仁慈。”</color>",
+    "introShort": "恶狼不讲仁慈。",
+    "lane": "单人路;打野",
+    "name": "安蓓萨",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ambessa_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 1,
+    "title": "铁血狼母"
+  },
+  {
+    "alias": "mofeite",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10083.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008301.png",
+    "difficultyL": 1,
+    "heroId": 10083,
+    "intro": "“熔岩巨兽”墨菲特加入你的队伍\n<color=#5A5A5A>“坚如磐石。”</color>",
+    "introShort": "坚如磐石。",
+    "lane": "辅助;单人路;中路",
+    "name": "墨菲特",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Malphite_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "熔岩巨兽"
+  },
+  {
+    "alias": "eluola",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10085.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008501.png",
+    "difficultyL": 3,
+    "heroId": 10085,
+    "intro": "“双界灵兔”阿萝拉加入你的队伍\n<color=#5A5A5A>“面纱之外，亦有世界。”</color>",
+    "introShort": "面纱之外，亦有世界。",
+    "lane": "单人路;中路",
+    "name": "阿萝拉",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Aurora_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "双界灵兔"
+  },
+  {
+    "alias": "feizi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10086.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008601.png",
+    "difficultyL": 2,
+    "heroId": 10086,
+    "intro": "“潮汐海灵”菲兹加入你的队伍\n<color=#5A5A5A>“让我吃掉他们！”</color>",
+    "introShort": "让我吃掉他们！",
+    "lane": "中路;单人路;打野",
+    "name": "菲兹",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Fizz_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "潮汐海灵"
+  },
+  {
+    "alias": "jigesi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10087.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008701.png",
+    "difficultyL": 2,
+    "heroId": 10087,
+    "intro": "“爆破鬼才”吉格斯加入你的队伍\n<color=#5A5A5A>“来，炸个痛快。”</color>",
+    "introShort": "来，炸个痛快。",
+    "lane": "中路",
+    "name": "吉格斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ziggs_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "爆破鬼才"
+  },
+  {
+    "alias": "gulajiasi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10089.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008901.png",
+    "difficultyL": 2,
+    "heroId": 10089,
+    "intro": "“酒桶”古拉加斯加入你的队伍\n<color=#5A5A5A>“你买单，我就来！”</color>",
+    "introShort": "你买单，我就来！",
+    "lane": "打野;单人路",
+    "name": "古拉加斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gragas_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 3,
+    "title": "酒桶"
+  },
+  {
+    "alias": "fulajimier",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10090.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009001.png",
+    "difficultyL": 2,
+    "heroId": 10090,
+    "intro": "“猩红收割者”弗拉基米尔加入你的队伍\n<color=#5A5A5A>“收获之夜，多美妙的名字啊。”</color>",
+    "introShort": "收获之夜，多美妙的名字啊。",
+    "lane": "中路;单人路",
+    "name": "弗拉基米尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vladimir_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 2,
+    "title": "猩红收割者"
+  },
+  {
+    "alias": "namei",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10091.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009101.png",
+    "difficultyL": 2,
+    "heroId": 10091,
+    "intro": "“唤潮鲛姬”娜美加入你的队伍\n<color=#5A5A5A>“我的命运由我做主。”</color>",
+    "introShort": "我的命运由我做主。",
+    "lane": "辅助",
+    "name": "娜美",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nami_0.jpg",
+    "roles": [
+      "辅助"
+    ],
+    "surviveL": 1,
+    "title": "唤潮鲛姬"
+  },
+  {
+    "alias": "ruiwen",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10092.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009201.png",
+    "difficultyL": 2,
+    "heroId": 10092,
+    "intro": "“放逐之刃”锐雯加入你的队伍\n<color=#5A5A5A>“断剑重铸之日，骑士归来之时。”</color>",
+    "introShort": "断剑重铸之日，骑士归来之时。",
+    "lane": "单人路;打野",
+    "name": "锐雯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Riven_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "放逐之刃"
+  },
+  {
+    "alias": "weilusi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10093.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009301.png",
+    "difficultyL": 2,
+    "heroId": 10093,
+    "intro": "“惩戒之箭”韦鲁斯加入你的队伍\n<color=#5A5A5A>“罪恶将知道什么是痛苦。”</color>",
+    "introShort": "罪恶将知道什么是痛苦。",
+    "lane": "射手",
+    "name": "韦鲁斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Varus_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "惩戒之箭"
+  },
+  {
+    "alias": "airuiliya",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10094.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009401.png",
+    "difficultyL": 3,
+    "heroId": 10094,
+    "intro": "“刀锋舞者”艾瑞莉娅加入你的队伍\n<color=#5A5A5A>“为初生之土而战。”</color>",
+    "introShort": "为初生之土而战。",
+    "lane": "中路;单人路",
+    "name": "艾瑞莉娅",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Irelia_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "刀锋舞者"
+  },
+  {
+    "alias": "katelinna",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10095.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009501.png",
+    "difficultyL": 3,
+    "heroId": 10095,
+    "intro": "“不祥之刃”卡特琳娜加入你的队伍\n<color=#5A5A5A>“我已经做出了我的选择。”</color>",
+    "introShort": "我已经做出了我的选择。",
+    "lane": "中路",
+    "name": "卡特琳娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Katarina_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "不祥之刃"
+  },
+  {
+    "alias": "xinjide",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10096.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009601.png",
+    "difficultyL": 2,
+    "heroId": 10096,
+    "intro": "“炼金术士”辛吉德加入你的队伍\n<color=#5A5A5A>“要来一杯么？”</color>",
+    "introShort": "要来一杯么？",
+    "lane": "单人路",
+    "name": "辛吉德",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Singed_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "炼金术士"
+  },
+  {
+    "alias": "suolaka",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10097.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009701.png",
+    "difficultyL": 1,
+    "heroId": 10097,
+    "intro": "“众星之子”索拉卡加入你的队伍\n<color=#5A5A5A>“只要我还活着，就不会有人遭受苦难。”</color>",
+    "introShort": "只要我还活着，就不会有人遭受苦难。",
+    "lane": "辅助",
+    "name": "索拉卡",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Soraka_0.jpg",
+    "roles": [
+      "辅助"
+    ],
+    "surviveL": 1,
+    "title": "众星之子"
+  },
+  {
+    "alias": "yizeruier",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10098.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009801.png",
+    "difficultyL": 2,
+    "heroId": 10098,
+    "intro": "“探险家”伊泽瑞尔加入你的队伍\n<color=#5A5A5A>“任务已接受。等等，我们要去哪儿？”</color>",
+    "introShort": "任务已接受。等等，我们要去哪儿？",
+    "lane": "射手",
+    "name": "伊泽瑞尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ezreal_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "探险家"
+  },
+  {
+    "alias": "jialiao",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10099.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009901.png",
+    "difficultyL": 2,
+    "heroId": 10099,
+    "intro": "“正义巨像”加里奥加入你的队伍\n<color=#5A5A5A>“是时候重拳出击了。”</color>",
+    "introShort": "是时候重拳出击了。",
+    "lane": "中路;辅助",
+    "name": "加里奥",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Galio_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 3,
+    "title": "正义巨像"
+  },
+  {
+    "alias": "ekeshang",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10100.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010001.png",
+    "difficultyL": 3,
+    "heroId": 10100,
+    "intro": "“影哨”阿克尚加入你的队伍\n<color=#5A5A5A>“解决一个败类，世界就正常一分。”</color>",
+    "introShort": "解决一个败类，世界就正常一分。",
+    "lane": "中路",
+    "name": "阿克尚",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Akshan_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "影哨"
+  },
+  {
+    "alias": "jiesi",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10101.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010101.png",
+    "difficultyL": 3,
+    "heroId": 10101,
+    "intro": "“未来守护者”杰斯加入你的队伍\n<color=#5A5A5A>“为了更美好的明天而战！”</color>",
+    "introShort": "为了更美好的明天而战！",
+    "lane": "单人路;中路",
+    "name": "杰斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jayce_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 1,
+    "title": "未来守护者"
+  },
+  {
+    "alias": "ejiate",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10102.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010201.png",
+    "difficultyL": 2,
+    "heroId": 10102,
+    "intro": "“无畏战车”厄加特加入你的队伍\n<color=#5A5A5A>“永恒的生命，无尽的折磨。”</color>",
+    "introShort": "永恒的生命，无尽的折磨。",
+    "lane": "单人路",
+    "name": "厄加特",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Urgot_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "无畏战车"
+  },
+  {
+    "alias": "kasading",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10103.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010301.png",
+    "difficultyL": 2,
+    "heroId": 10103,
+    "intro": "“虚空行者”卡萨丁加入你的队伍\n<color=#5A5A5A>“必须维持力量的均衡。”</color>",
+    "introShort": "必须维持力量的均衡。",
+    "lane": "中路;单人路",
+    "name": "卡萨丁",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kassadin_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "虚空行者"
+  },
+  {
+    "alias": "shamila",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10104.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010401.png",
+    "difficultyL": 2,
+    "heroId": 10104,
+    "intro": "“沙漠玫瑰”莎弥拉加入你的队伍。\n<color=#5A5A5A>“想要有个性，你算找对人了。”</color>",
+    "introShort": "想要有个性，你算找对人了。",
+    "lane": "射手",
+    "name": "莎弥拉",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Samira_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 2,
+    "title": "沙漠玫瑰"
+  },
+  {
+    "alias": "aolafu",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10106.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010601.png",
+    "difficultyL": 2,
+    "heroId": 10106,
+    "intro": "“狂战士”奥拉夫加入你的队伍\n<color=#5A5A5A>“所到之处，寸草不生！”</color>",
+    "introShort": "所到之处，寸草不生！",
+    "lane": "打野;单人路",
+    "name": "奥拉夫",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Olaf_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "狂战士"
+  },
+  {
+    "alias": "xiweier",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10107.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010701.png",
+    "difficultyL": 2,
+    "heroId": 10107,
+    "intro": "“战争女神”希维尔加入你的队伍\n<color=#5A5A5A>“金币也许能买一天你的技艺，但绝对买不到忠诚。”</color>",
+    "introShort": "金币也许能买一天你的技艺，但绝对买不到忠诚。",
+    "lane": "射手",
+    "name": "希维尔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sivir_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 3,
+    "title": "战争女神"
+  },
+  {
+    "alias": "miliou",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10108.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010801.png",
+    "difficultyL": 2,
+    "heroId": 10108,
+    "intro": "“明烛”米利欧加入你的队伍\n<color=#5A5A5A>“跟紧我，你就不冷了！”</color>",
+    "introShort": "跟紧我，你就不冷了！",
+    "lane": "辅助",
+    "name": "米利欧",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Milio_0.jpg",
+    "roles": [
+      "辅助"
+    ],
+    "surviveL": 1,
+    "title": "明烛"
+  },
+  {
+    "alias": "lisangzhuo",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10109.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010901.png",
+    "difficultyL": 2,
+    "heroId": 10109,
+    "intro": "“冰霜女巫”丽桑卓加入你的队伍\n<color=#5A5A5A>“所有人都将臣服，只是时机未到。”</color>",
+    "introShort": "所有人都将臣服，只是时机未到。",
+    "lane": "中路",
+    "name": "丽桑卓",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lissandra_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "冰霜女巫"
+  },
+  {
+    "alias": "kaitelin",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10112.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1011201.png",
+    "difficultyL": 1,
+    "heroId": 10112,
+    "intro": "“皮城女警”凯特琳加入你的队伍\n<color=#5A5A5A>“好戏开场了。”</color>",
+    "introShort": "好戏开场了。",
+    "lane": "射手",
+    "name": "凯特琳",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Caitlyn_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "皮城女警"
+  },
+  {
+    "alias": "shen",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10118.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1011801.png",
+    "difficultyL": 2,
+    "heroId": 10118,
+    "intro": "“暮光之眼”慎加入你的队伍\n<color=#5A5A5A>“执行均衡之令。”</color>",
+    "introShort": "执行均衡之令。",
+    "lane": "单人路;打野",
+    "name": "慎",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Shen_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "暮光之眼"
+  },
+  {
+    "alias": "bulande",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10119.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1011901.png",
+    "difficultyL": 2,
+    "heroId": 10119,
+    "intro": "“复仇焰魂”布兰德加入你的队伍\n<color=#5A5A5A>“准备好进入火焰世界了吗？”</color>",
+    "introShort": "准备好进入火焰世界了吗？",
+    "lane": "中路;辅助",
+    "name": "布兰德",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Brand_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "复仇焰魂"
+  },
+  {
+    "alias": "leikedun",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10121.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012101.png",
+    "difficultyL": 1,
+    "heroId": 10121,
+    "intro": "“荒漠屠夫”雷克顿加入你的队伍\n<color=#5A5A5A>“啥？有人挂在我的牙齿上吗？”</color>",
+    "introShort": "啥？有人挂在我的牙齿上吗？",
+    "lane": "单人路",
+    "name": "雷克顿",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Renekton_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "荒漠屠夫"
+  },
+  {
+    "alias": "weijia",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10122.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012201.png",
+    "difficultyL": 1,
+    "heroId": 10122,
+    "intro": "“邪恶小法师”维迦加入你的队伍\n<color=#5A5A5A>“我能看见你内心的恐惧！”</color>",
+    "introShort": "我能看见你内心的恐惧！",
+    "lane": "中路;辅助",
+    "name": "维迦",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Veigar_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "邪恶小法师"
+  },
+  {
+    "alias": "saina",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10123.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012301.png",
+    "difficultyL": 2,
+    "heroId": 10123,
+    "intro": "“涤魂圣枪”赛娜加入你的队伍\n<color=#5A5A5A>“再起来啊，打到你不敢。”</color>",
+    "introShort": "再起来啊，打到你不敢。",
+    "lane": "射手;辅助",
+    "name": "赛娜",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Senna_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 1,
+    "title": "涤魂圣枪"
+  },
+  {
+    "alias": "paike",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10124.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012401.png",
+    "difficultyL": 2,
+    "heroId": 10124,
+    "intro": "“血港鬼影”派克加入你的队伍\n<color=#5A5A5A>“把他们全拖下水。”</color>",
+    "introShort": "把他们全拖下水。",
+    "lane": "辅助",
+    "name": "派克",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Pyke_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "血港鬼影"
+  },
+  {
+    "alias": "saien",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10125.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012501.png",
+    "difficultyL": 1,
+    "heroId": 10125,
+    "intro": "“亡灵战神”赛恩加入你的队伍。\n<color=#5A5A5A>“活人才需歇息。”</color>",
+    "introShort": "活人才需歇息。",
+    "lane": "单人路;打野",
+    "name": "赛恩",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sion_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "亡灵战神"
+  },
+  {
+    "alias": "siweiyin",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10126.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012601.png",
+    "difficultyL": 2,
+    "heroId": 10126,
+    "intro": "“诺克萨斯统领”斯维因加入你的队伍。 \n<color=#5A5A5A>“畏惧看不见的力量吧。”</color>",
+    "introShort": " 畏惧看不见的力量吧。",
+    "lane": "中路;辅助",
+    "name": "斯维因",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Swain_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 2,
+    "title": "诺克萨斯统领"
+  },
+  {
+    "alias": "heimodingge",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10127.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012701.png",
+    "difficultyL": 2,
+    "heroId": 10127,
+    "intro": "“大发明家”黑默丁格加入你的队伍\n<color=#5A5A5A>“你是说，不可能？胡说八道。等我让你看看我的计算！”</color>",
+    "introShort": "你是说，不可能？胡说八道。等我让你看看我的计算！",
+    "lane": "中路",
+    "name": "黑默丁格",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Heimerdinger_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "大发明家"
+  },
+  {
+    "alias": "tailong",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10128.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012801.png",
+    "difficultyL": 2,
+    "heroId": 10128,
+    "intro": "“刀锋之影”泰隆加入你的队伍。\n<color=#5A5A5A>“刀在人在，刀亡人亡。”</color>",
+    "introShort": "刀在人在，刀亡人亡。",
+    "lane": "中路;打野",
+    "name": "泰隆",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Talon_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "刀锋之影"
+  },
+  {
+    "alias": "chuishi",
+    "assistL": 3,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10130.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013001.png",
+    "difficultyL": 3,
+    "heroId": 10130,
+    "intro": "“魂锁典狱长”锤石加入你的队伍\n<color=#5A5A5A>“我说结束了，那就结束了。”</color>",
+    "introShort": "我说结束了，那就结束了。",
+    "lane": "辅助",
+    "name": "锤石",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Thresh_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 2,
+    "title": "魂锁典狱长"
+  },
+  {
+    "alias": "wolike",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10131.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013101.png",
+    "difficultyL": 1,
+    "heroId": 10131,
+    "intro": "“祖安怒兽”沃里克加入你的队伍\n<color=#5A5A5A>“我闻到你的味道了。”</color>",
+    "introShort": "我闻到你的味道了。",
+    "lane": "打野;单人路",
+    "name": "沃里克",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Warwick_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 2,
+    "title": "祖安怒兽"
+  },
+  {
+    "alias": "nuotilesi",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10132.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013201.png",
+    "difficultyL": 2,
+    "heroId": 10132,
+    "intro": "“深海泰坦”诺提勒斯加入你的队伍\n<color=#5A5A5A>“大海无量。”</color>",
+    "introShort": "大海无量。",
+    "lane": "辅助;单人路;打野",
+    "name": "诺提勒斯",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nautilus_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "深海泰坦"
+  },
+  {
+    "alias": "feidetike",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10133.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013301.png",
+    "difficultyL": 2,
+    "heroId": 10133,
+    "intro": "“远古恐惧”费德提克加入你的队伍\n<color=#5A5A5A>“听候您的吩咐，主人。”</color>",
+    "introShort": "听候您的吩咐，主人。",
+    "lane": "打野",
+    "name": "费德提克",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Fiddlesticks_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "远古恐惧"
+  },
+  {
+    "alias": "kalisita",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10134.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013401.png",
+    "difficultyL": 3,
+    "heroId": 10134,
+    "intro": "“复仇之矛”卡莉丝塔加入你的队伍\n<color=#5A5A5A>“所有背叛者都得死。”</color>",
+    "introShort": "所有背叛者都得死。",
+    "lane": "射手",
+    "name": "卡莉丝塔",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kalista_0.jpg",
+    "roles": [
+      "射手"
+    ],
+    "surviveL": 2,
+    "title": "复仇之矛"
+  },
+  {
+    "alias": "liliya",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10135.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013501.png",
+    "difficultyL": 3,
+    "heroId": 10135,
+    "intro": "“含羞蓓蕾”莉莉娅加入你的队伍。\n<color=#5A5A5A>“是我吗？梦成真了……”</color>",
+    "introShort": "是我吗？梦成真了……",
+    "lane": "打野",
+    "name": "莉莉娅",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lillia_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "含羞蓓蕾"
+  },
+  {
+    "alias": "aoen",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10136.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013601.png",
+    "difficultyL": 2,
+    "heroId": 10136,
+    "intro": "“山隐之焰”奥恩加入你的队伍。 \n<color=#5A5A5A>“好的，我们走。”</color>",
+    "introShort": " 好的，我们走。",
+    "lane": "单人路",
+    "name": "奥恩",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ornn_0.jpg",
+    "roles": [
+      "坦克"
+    ],
+    "surviveL": 3,
+    "title": "山隐之焰"
+  },
+  {
+    "alias": "ruizi",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10137.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013701.png",
+    "difficultyL": 2,
+    "heroId": 10137,
+    "intro": "“符文法师”瑞兹加入你的队伍\n<color=#5A5A5A>“灾难始终慢我一步。”</color>",
+    "introShort": "灾难始终慢我一步。",
+    "lane": "中路",
+    "name": "瑞兹",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ryze_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "符文法师"
+  },
+  {
+    "alias": "lanbo",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10140.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1014001.png",
+    "difficultyL": 3,
+    "heroId": 10140,
+    "intro": "“机械公敌”兰博加入你的队伍\n<color=#5A5A5A>“班德尔城一展雄风的时候到了。”</color>",
+    "introShort": "班德尔城一展雄风的时候到了。",
+    "lane": "单人路",
+    "name": "兰博",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Rumble_0.jpg",
+    "roles": [
+      "战士"
+    ],
+    "surviveL": 1,
+    "title": "机械公敌"
+  },
+  {
+    "alias": "weigusi",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10141.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1014101.png",
+    "difficultyL": 2,
+    "heroId": 10141,
+    "intro": "“愁云使者”薇古丝加入你的队伍\n<color=#5A5A5A>“呃啊……算了。”</color>",
+    "introShort": "呃啊……算了。",
+    "lane": "中路",
+    "name": "薇古丝",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vex_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 2,
+    "title": "愁云使者"
+  },
+  {
+    "alias": "weiketuo",
+    "assistL": 1,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10144.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1014401.png",
+    "difficultyL": 3,
+    "heroId": 10144,
+    "intro": "“奥术先驱”维克托加入你的队伍\n<color=#5A5A5A>“拥抱进步吧。”</color>",
+    "introShort": "拥抱进步吧。",
+    "lane": "中路",
+    "name": "维克托",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viktor_0.jpg",
+    "roles": [
+      "法师"
+    ],
+    "surviveL": 1,
+    "title": "奥术先驱"
+  },
+  {
+    "alias": "moteng",
+    "assistL": 2,
+    "avatar": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10151.png",
+    "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1015101.png",
+    "difficultyL": 1,
+    "heroId": 10151,
+    "intro": "“永恒梦魇”魔腾加入你的队伍\n<color=#5A5A5A>“拥抱黑暗吧！”</color>",
+    "introShort": "拥抱黑暗吧！",
+    "lane": "打野",
+    "name": "魔腾",
+    "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nocturne_0.jpg",
+    "roles": [
+      "刺客"
+    ],
+    "surviveL": 1,
+    "title": "永恒梦魇"
+  }
+]
